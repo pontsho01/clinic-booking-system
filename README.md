@@ -14,9 +14,6 @@ This project is a MySQL-based relational database for a clinic booking system. I
 2. Open your MySQL environment (phpMyAdmin, MySQL Workbench, etc.).
 3. Run the `clinic_booking_system.sql` file to create and initialize the database.
 
-## 🖼️ ERD (Entity Relationship Diagram)
-![ERD](link_to_your_erd_screenshot.png)
-
 Alternatively, you can use this free tool to create your ERD and export a screenshot:
 https://dbdiagram.io or https://drawsql.app
 ## ERD (Entity Relationship Diagram)
