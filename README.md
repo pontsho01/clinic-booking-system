@@ -19,3 +19,7 @@ This project is a MySQL-based relational database for a clinic booking system. I
 
 Alternatively, you can use this free tool to create your ERD and export a screenshot:
 https://dbdiagram.io or https://drawsql.app
+## ERD (Entity Relationship Diagram)
+
+View the full ERD here:  
+[🔗 Click to open ERD](https://dbdiagram.io/d  Clinic-Booking-System-6829f4aa1227bdcb4ed61de6)  
